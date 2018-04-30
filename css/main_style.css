@@ -1132,6 +1132,17 @@
 					background-color: rgba(0, 0, 0, 0.25);
 					background-image: url("https://unsplash.com/photos/PwHGzZqbbJ8/download?force=true");
 				}
+				.item #level1 a:before {
+					content: '';
+					display: block;
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					background-color: rgba(0, 0, 0, 0.25);
+					background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/YWAdzU2/night-sky-005-a-star-field-twinkles-in-a-night-sky-loop_hf3owvebl_thumbnail-full01.png");
+				}
 
 			.item header:hover a {
 				-moz-transform: scale(1.1);

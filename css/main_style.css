@@ -274,6 +274,7 @@
 
 		a:hover {
 			color: #EF6480 !important;
+			text-decoration: none;
 		}
 
 	strong, b {

@@ -1395,12 +1395,12 @@
 			}
 
 			#header.alt h1 {
-				font-size: 5em;
+				font-size: 4em;
 				padding: 0 0.5em 0.25em 0.5em;
 				border-bottom: solid 2px #ffffff;
 				font-weight: 200;
 				font-family: "IM Fell DW Pica", cursive;
-				text-transform: none;
+				text-transform: uppercase;
 				letter-spacing: 0;
 			}
 

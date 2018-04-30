@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Pacifico|Source+Sans+Pro:200,400");
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon|IM+Fell+DW+Pica');
 
 /* Reset */
 
@@ -375,7 +376,7 @@
 		input[type="button"].big,
 		button.big,
 		.button.big {
-			font-size: 0.8em;
+			font-size: 1em;
 			padding: 0 2.5em 0 2.875em;
 			height: 3.75em;
 			line-height: 3.75em;
@@ -1398,7 +1399,7 @@
 				padding: 0 0.5em 0.25em 0.5em;
 				border-bottom: solid 2px #ffffff;
 				font-weight: 200;
-				font-family: "Pacifico", cursive;
+				font-family: "IM Fell DW Pica", cursive;
 				text-transform: none;
 				letter-spacing: 0;
 			}

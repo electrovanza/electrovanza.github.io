@@ -1381,7 +1381,7 @@
 		#header.alt {
 			height: 20em;
 			min-height: 20em;
-			min-height: 75vh;
+			min-height: 100vh;
 		}
 
 			#header.alt:before {

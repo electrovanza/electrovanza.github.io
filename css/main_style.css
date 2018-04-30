@@ -1564,6 +1564,8 @@
 		#footer .copyright {
 			font-size: 1.1em;
 			letter-spacing: 5px;
+			color: black;
+			font-weight: bolder;
 		}
 
 		@media screen and (max-width: 736px) {

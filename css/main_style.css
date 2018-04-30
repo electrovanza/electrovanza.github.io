@@ -1300,10 +1300,13 @@
 
 		#header a {
 			color: inherit;
+			transition: 0.5s;
 		}
 
 			#header a:hover {
 				color: #EF6480 !important;
+				text-decoration: none;
+				background-color: black;
 			}
 
 		#header strong, #header b {
@@ -1461,7 +1464,7 @@
 
 	#intro {
 		padding: 4em 4em 2em 4em;
-		background-color: #ffffff;
+		background-color: #87ceeb4a;
 		border-radius: 4px;
 		text-align: center;
 	}
